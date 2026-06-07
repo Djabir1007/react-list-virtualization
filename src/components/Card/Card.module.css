@@ -1,0 +1,19 @@
+.card {
+  background-color: #f3f4f6;
+  border-radius: 12px;
+  border: 1px solid #d1d5db;
+  padding: 20px;
+  height: 200px;
+  display: grid;
+  grid-template-rows: 80px 1fr;
+  align-items: center;
+}
+
+.title {
+  text-align: center;
+}
+
+.text {
+  text-align: center;
+  line-height: 1.4;
+}
