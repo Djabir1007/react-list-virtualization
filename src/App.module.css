@@ -7,19 +7,5 @@
 .title {
   text-align: center;
   font-size: 40px;
-  margin: 0 0 32px;
-}
-
-.list {
-  height: 500px;
-  overflow-y: auto;
-  border: 2px solid gray;
-  border-radius: 15px;
-  padding: 20px;
-}
-
-.visibleList {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  gap: 30px;
+  margin: 0 0 20px;
 }
